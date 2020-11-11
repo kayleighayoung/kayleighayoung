@@ -1,8 +1,7 @@
 ## About Me
 
-You can use the [editor on GitHub](https://github.com/kayleighayoung/kayleighyoung.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I’m an artist and researcher with a lot of unique interdisciplinary experience currently earning a Bachelor of Science in Integrative Informatics from Allegheny College. I have studied art, computer science, and psychology during my time as an undergraduate student, and I have eight years of experience in professional settings and six as a professional photographer and videographer. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Resume
 
