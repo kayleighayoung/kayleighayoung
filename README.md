@@ -1,3 +1,11 @@
+## Welcome!
+
+### About Me
+
+Hi there. My name is Kayleigh Young and I'm a senior at Allegheny College. I'm an Integrative Informatics major with a focus in art and media, and a Psychology and Communication Arts double minor.
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kayleighayoung/kayleighyoung/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
