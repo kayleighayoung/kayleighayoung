@@ -10,8 +10,15 @@ I'm an integrative informatics major with a focus in art and media, and a psycho
 
 Technical Skills | Soft Skills
 ------------ | -------------
-Content from cell 1 | Content from cell 2
-Content in the first column | Content in the second column
+Java | Adaptability
+Google Analytics | Creative Problem Solving
+RStudio | Leadership
+GitHub | Verbal and Written Communication
+VSCode | Teamwork
+Final Cut Pro X | 
+DaVinci Resolve |
+SolidWorks |
+Adobe Suite |
 
 ## Welcome to GitHub Pages
 
