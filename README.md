@@ -6,20 +6,6 @@ Hi there! My name is Kayleigh Young and I'm a senior at Allegheny College in Mea
 
 I'm an integrative informatics major with a focus in art and media, and a psychology and communication arts double minor. I am particularly interested in researching the cultural relationship between art and science.
 
-### Skills
-
-Technical Skills | Soft Skills
------------- | -------------
-Java | Adaptability
-Google Analytics | Creative Problem Solving
-RStudio | Leadership
-GitHub | Verbal and Written Communication
-VSCode | Teamwork
-Final Cut Pro X | Conflict Resolution
-DaVinci Resolve | Empathy
-SolidWorks | Organization
-Adobe Creative Suite | Flexibility
-
 ### Experience and Projects
 
 **Professional Photography and Videography**\
