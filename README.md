@@ -20,7 +20,7 @@ My year long senior comprehensive project is a documentary film exploring the sc
 ### Links
 Linkedin: https://www.linkedin.com/in/kayleigh-young-she-her-763731162/ \
 Photography: https://fifiayoung.wixsite.com/halfandhalf \
-Youtube:https://www.youtube.com/user/MrKAY3004
+Youtube: https://www.youtube.com/user/MrKAY3004
 
 ### Resume
 
