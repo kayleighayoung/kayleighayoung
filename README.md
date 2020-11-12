@@ -2,9 +2,16 @@
 
 ### About Me
 
-Hi there. My name is Kayleigh Young and I'm a senior at Allegheny College. I'm an Integrative Informatics major with a focus in art and media, and a Psychology and Communication Arts double minor.
+Hi there! My name is Kayleigh Young and I'm a senior at Allegheny College in Meadville, Pennsylvania. I'm originally from Northern New Jersey and have been an athlete my entire life. From competitive dance to volleyball and tennis, I have always been an active person. These days you can find me at the nearest hiking trail or rock climbing gym.
 
+I'm an integrative informatics major with a focus in art and media, and a psychology and communication arts double minor. I am particularly interested in researching the cultural relationship between art and science.
 
+### Skills
+
+Technical Skills | Soft Skills
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
 
 ## Welcome to GitHub Pages
 
