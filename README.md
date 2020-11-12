@@ -17,8 +17,18 @@ GitHub | Verbal and Written Communication
 VSCode | Teamwork
 Final Cut Pro X | Conflict Resolution
 DaVinci Resolve | Empathy
-SolidWorks | 
-Adobe Suite |
+SolidWorks | Organization
+Adobe Creative Suite | Flexibility
+
+### Experience and Projects
+
+**Independent First Shooter for Kress Productions**
+
+**Cochranton Documentary**
+
+**Senior Comprehensive Project**
+
+
 
 ## Welcome to GitHub Pages
 
