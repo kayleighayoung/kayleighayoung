@@ -18,9 +18,9 @@ During my junior year of college I was contracted alongside a few other producti
 My year long senior comprehensive project is a documentary film exploring the scientific and cultural implications of CRISPR.
 
 ### Links
-Linkedin: https://www.linkedin.com/in/kayleigh-young-she-her-763731162/ \
-Photography: https://fifiayoung.wixsite.com/halfandhalf \
-Youtube: https://www.youtube.com/user/MrKAY3004
+[LinkedIn](https://www.linkedin.com/in/kayleigh-young-she-her-763731162/)\
+[Photography](https://fifiayoung.wixsite.com/halfandhalf)\
+[Youtube](https://www.youtube.com/user/MrKAY3004)
 
 ### Resume
 
