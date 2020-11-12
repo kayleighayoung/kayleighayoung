@@ -2,7 +2,7 @@
 
 ### About Me
 
-Hi there! My name is Kayleigh Young and I'm a senior at Allegheny College in Meadville, Pennsylvania. I'm originally from Northern New Jersey and have been an athlete my entire life. From competitive dance to volleyball and tennis, I have always been an active person. These days you can find me at the nearest hiking trail or rock climbing gym.
+Hi there! My name is Kayleigh Young and I'm a senior at Allegheny College in Meadville, Pennsylvania. I'm originally from Northern New Jersey and have been an athlete my entire life. From competitive dance to volleyball and tennis, I have always been an active person. These days you can find me at the nearest hiking trail or rock climbing gym. 
 
 I'm an integrative informatics major with a focus in art and media, and a psychology and communication arts double minor. I am particularly interested in researching the cultural relationship between art and science.
 
@@ -15,9 +15,9 @@ Google Analytics | Creative Problem Solving
 RStudio | Leadership
 GitHub | Verbal and Written Communication
 VSCode | Teamwork
-Final Cut Pro X | 
-DaVinci Resolve |
-SolidWorks |
+Final Cut Pro X | Conflict Resolution
+DaVinci Resolve | Empathy
+SolidWorks | 
 Adobe Suite |
 
 ## Welcome to GitHub Pages
