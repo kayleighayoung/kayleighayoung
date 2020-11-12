@@ -22,12 +22,12 @@ Adobe Creative Suite | Flexibility
 
 ### Experience and Projects
 
-**Professional Photography and Videography**
+**Professional Photography and Videography**\
 I have been working as a professional photographer and videographer for 6 years, frequently shooting parties and weddings. Therefore I am highly accustomed to long  days and working with a variety of high end video and audio equipment. Despite the high stakes and high pressure position, I always loved being a part of documenting a client's special day.
 
-**Cochranton Documentary**
+**Cochranton Documentary**\
 During my junior year of college I was contracted alongside a few other production students to create a documentary film for the brand new pharmacy in nearby Cochranton, PA. I was heavily involved in the shooting and editing of this project.
 
-**Senior Comprehensive Project**
+**Senior Comprehensive Project**\
 My year long senior comprehensive project is a documentary film exploring the scientific and cultural implications of CRISPR.
 
